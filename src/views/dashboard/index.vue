@@ -5,7 +5,7 @@
         <line-chart :chart-data="lineChartData" />
       </el-col>
       <el-col :span="12">
-        <el-button @click="getData" type="primary" plain size="mini">模拟获取数据</el-button>
+        <el-button @click="getData" type="primary" plain size="mini">-- 模拟获取数据 --</el-button>
       </el-col>
     </el-row>
 
